@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/yuan/Downloads/threading_primes_variants/V2_straight_delayed",
+      "program": "/Users/yuan/Downloads/threading_primes_variants/V2_straight_delayed/build/Debug/outDebug"
+    }
+  ]
+}

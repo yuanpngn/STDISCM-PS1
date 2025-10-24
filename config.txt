@@ -1,0 +1,3 @@
+# Shared knobs for all variants
+threads=4      # <=0 means: auto-detect hardware_concurrency
+limit=10000    # prime search upper bound (>=2)
